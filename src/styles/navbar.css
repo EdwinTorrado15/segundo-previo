@@ -1,0 +1,10 @@
+ul {
+  display: flex;
+  gap: 20px;
+  background-color: gainsboro;
+  padding: 20px;
+}
+
+li {
+  list-style: none;
+}
